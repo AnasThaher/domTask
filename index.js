@@ -1,0 +1,10 @@
+function push(){
+
+
+
+}
+
+function pop(){
+
+    
+}
